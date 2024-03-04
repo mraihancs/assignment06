@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.banner{
+    background-image: url('bgbanner.png');
+}
+
+.forum{
+    background-color: #12132D;
+}
+
+
+.hrr{
+    border: 1px solid gray;
+    width: 60%;
+}
